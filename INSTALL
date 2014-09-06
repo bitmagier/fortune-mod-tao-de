@@ -1,0 +1,8 @@
+- create .dat file:
+	strfile tao-zensho-de
+
+- copy both files "tao-zensho-de" and "tao-zensho-de.dat" to /usr/share/fortune
+
+Now you can use tao-zensho-de as fortune mod.
+
+You can "fortune tao-zensho-de" in your shell startup file.
