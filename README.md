@@ -1,7 +1,7 @@
 fortune-mod-tao-de
 ==================
 
-"Lao-Tse, Tao Te King" as fortune database (German) - translation by Zen master Zensho W. Kopp
+"Lao-Tse, Tao Te King" als Fortune Datenbank (Deutsch) - In der Übersetzung von Zen Meister Zensho W. Kopp
 
 Das heilige Buch vom Tao
 
@@ -12,7 +12,7 @@ dem göttlichen Urgrund allen Seins, und dessen Wirkkraft im Menschen.
 Es möchte den Menschen zurückführen zur ursprünglichen Einheit mit dem Tao i
 und somit zur Harmonie mit der allumfassenden Ganzheit des Seins.
 
-Status: usable, work in progress
+Status: benutzbar; noch nicht vollständig
 
 Original:
 http://www.tao-chan.de/chan_buecher_lao_tse.html
