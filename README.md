@@ -1,7 +1,7 @@
 fortune-mod-tao-de
 ==================
 
-"Lao-Tse, Tao Te King" als Fortune Datenbank (Deutsch) - In der Übersetzung von Zen Meister Zensho W. Kopp
+"Lao-Tse, Tao Te King" als Fortune Datenbank - In der Übersetzung von Zen Meister Zensho W. Kopp
 
 Das heilige Buch vom Tao
 
