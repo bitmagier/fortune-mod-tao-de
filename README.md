@@ -15,11 +15,12 @@ In einer Sprache von unvergleichlicher Bildkraft kündet das Tao Te King vom Tao
 dem göttlichen Urgrund allen Seins, und dessen Wirkkraft im Menschen. 
 Es möchte den Menschen zurückführen zur ursprünglichen Einheit mit dem Tao 
 und somit zur Harmonie mit der allumfassenden Ganzheit des Seins.
+
 ---------------------------------------------------------------------------
 
-Status: usable, incomplete
+Status: usable, work in progress
 
-Published with the kind permission of Zen master Zensho W. Kopp.
+Published with kind permission of Zen master Zensho W. Kopp.
 
 Original book: http://www.tao-chan.de/chan_buecher_lao_tse.html
 3rd edition 2010
