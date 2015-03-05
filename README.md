@@ -1,11 +1,11 @@
 fortune-mod-tao-de
 ==================
 
-This is a fortune cookie database based on the german translation of Lao-Tse's book "Tao Te King". Translation has been done by Zen master Zensho W. Kopp. There are a lot of german translations of this jewel of eastern wisdom, but no other has this brilliance.
+Fortune cookie database containing the german translation of Lao-Tse's book "Tao Te King". Translation has been done by Zen master Zensho W. Kopp. There are a lot of german translations of this jewel of eastern wisdom, but no other has this brilliance.
 
-Fortune is a simple program that displays a pseudorandom message from a database of quotations that first appeared in Version 7 Unix.
+Fortune is a simple greeter program that displays a pseudorandom message from a database of quotations.
 
-Content:
+Inhalt:
 --------------------------------------------------------------------------
 Das heilige Buch vom Tao
 
