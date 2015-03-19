@@ -23,4 +23,4 @@ Status: usable, work in progress
 Published with kind permission of Zen master Zensho W. Kopp.
 
 Original book: http://www.tao-chan.de/chan_buecher_lao_tse.html
-3rd edition 2010
+2014
