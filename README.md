@@ -24,9 +24,9 @@ Ein zeitloses Weisheitsbuch von einzigartiger Geheimnisfülle und schönheit der
 
 ---------------------------------------------------------------------------
 
-Status: work in progress, 69 of 81 chapters written
+Status: complete
 
 Published with kind permission of Zen master Zensho W. Kopp.
 
 Original book: http://www.tao-chan.de/chan_buecher_lao_tse.html
-2014
+New Edition 2014
