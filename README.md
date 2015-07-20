@@ -20,7 +20,7 @@ und somit zur Harmonie mit der allumfassenden Ganzheit des Seins.
 In dieser genialen Neuübertragung ist es meisterlich gelungen,
 bei strenger Wahrung des Sinngehalts die ganze mystische Aussagekraft des Werkes zum Ausdruck zu bringen - und so einen vollkommen neuen, tieferen Zugang zu eröffnen.
 
-Ein zeitloses Weisheitsbuch von einzigartiger Geheimnisfülle und schönheit der Sprache.
+Ein zeitloses Weisheitsbuch von einzigartiger Geheimnisfülle und Schönheit der Sprache.
 
 ---------------------------------------------------------------------------
 
