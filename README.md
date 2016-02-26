@@ -26,7 +26,7 @@ Ein zeitloses Weisheitsbuch von einzigartiger Geheimnisfülle und Schönheit der
 
 Status: complete
 
-Published with kind permission of Zen master Zensho W. Kopp.
+Published with kind permission of Zen master Zensho
 
 Original book: http://www.tao-chan.de/chan_buecher_lao_tse.html
 New Edition 2014
