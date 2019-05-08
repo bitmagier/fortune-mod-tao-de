@@ -1,5 +1,8 @@
-fortune-mod-tao-de
-==================
+fortune-mod: TAO TE KING
+==========================================================
+
+Das Buch vom Tao und der Wirkkraft, ZENSHO W. KOPP
+---------------------------------------------------------------------------
 
 Fortune cookie database containing the german translation of Lao-Tse's book "Tao Te King". Translation has been done by Zen master Zensho W. Kopp.
 There are a lot of german translations of this jewel of eastern wisdom, but no other has this brilliance.
