@@ -9,8 +9,8 @@ There are a lot of german translations of this jewel of eastern wisdom, but no o
 
 Fortune is a simple greeter program that displays a pseudorandom message from a database of quotations.
 
-Inhalt:
---------------------------------------------------------------------------
+Content
+-------
 Das heilige Buch vom Tao und der Wirkkraft
 
 Das 2500 Jahre alte Tao Te King des chinesischen Weisen Lao-tse ist ein Juwel östlicher Weisheit. 
@@ -33,3 +33,9 @@ Published with kind permission of Zen master Zensho
 
 Original book: http://www.tao-chan.de/chan_buecher_lao_tse.html
 New Edition 2014
+
+Install
+-------
+Copy both files "tao-zensho-de" and "tao-zensho-de.dat" to folder /usr/share/fortune (or wherever your fortune installation is looking for fortune database files)
+
+Now you can use tao-zensho-de with fortune using `fortune tao-zensho-de`
